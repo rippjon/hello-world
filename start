@@ -1,0 +1,7 @@
+void setup()
+{
+"hello"
+delay (250)
+}
+void loop()
+{}
